@@ -1,6 +1,6 @@
-#UserInfoBot#
+# UserInfoBot
 
-###@infuser_bot###
+### @infuser_bot
 
 >A bot that knows the detail of your telegram account
 
